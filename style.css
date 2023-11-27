@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+}
+
+#a button
+{   height: 20px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    background-color:transparent;
+}
+#s button
+{  height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 90%;
+    top: 220%;
+    background-color:rgb(231, 145, 145);
+}
+#main {
+    height: 100%;
+    width: 100;
+}
+#image img{
+    height: 70%;
+    width: 100%;
+    position: absolute;
+    
+}
+
+#image1 img{
+    height: 25%;
+    width: 100%;
+
+    
+}
+
+#main button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    background-color:wheat;
+}
+button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 35%;
+    top: 75%;
+    background-color:wheat;
+}
+#h button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 75%;
+    background-color:wheat;
+}
+#q button{
+    height: 20px;
+    width: 60px;
+    position: absolute;
+    left: 85%;
+    top: 75%;
+    background-color:wheat;
+}
+#w button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 10%;
+    top: 90%;
+    background-color:wheat;
+
+}
+#e button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 35%;
+    top: 90%;
+    background-color:wheat;
+
+}
+#r button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 90%;
+    background-color:wheat;
+
+}
+#t button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 85%;
+    top: 90%;
+    background-color:wheat;
+
+}
+#y button
+{
+    height: 20px;
+    width: 60px;
+    position: absolute;
+    left: 10%;
+    top: 105%;
+    background-color:wheat;
+}
+#u button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 35%;
+    top: 105%;
+    background-color:wheat;
+}
+#i button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 60%;
+    top: 105%;
+    background-color:wheat;
+}
+#o button
+{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    left: 85%;
+    top: 105%;
+    background-color:wheat;
+}
+#d button{
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    left: 30%;
+    top: 40%;
+    background-color:rgba(127, 255, 212, 0.596);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    border-radius: 50px;
+    color:rgb(223, 21, 21);
+}
+#f button
+{
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    left:75%;
+    top: 10%;
+    background-color:transparent;
+}
+#z img{
+    height: 200px;
+    width: 150px;
+    position: absolute;
+    left: 40%;
+    top: 130%;
+    border-radius: 20px;
+   
+}
+#x button
+{
+    height: 105px;
+    width: 110px;
+    position: absolute;
+    left: 82%;
+    top: 190%;
+    border-radius: 20px;
+    background: cornflowerblue;
+    background-color: transparent;
+    color: bisque;
+}
+#parent{
+    position: absolute;
+    background-color: #ecacac;
+    height: 7px;
+    width: 100px;
+    top: 220%;
+    left: 6%;
+    border-radius: 20px;
+}
+#child
+{
+    
+    background-color: #dc5858;
+    height: 7px;
+    width: 70px;
+    top: 220%;
+    left: 6%;
+    border-radius: 10px;
+    
+}
+#child h1
+{
+    color: aliceblue;
+    font-size: x-small;
+    padding: 8px;
+    right: 0;
+    position: absolute;
+}
+#v button
+{
+    height: 60px;
+    width: 110px;
+    position: absolute;
+    left: 43%;
+    top: 155%;
+    border-radius: 20px;
+    background: cornflowerblue;
+    background-color: transparent;
+    color: bisque;
+}
+#b button
+{
+    height: 60px;
+    width: 110px;
+    position: absolute;
+    left: 43%;
+    top: 190%;
+    border-radius: 20px;
+    background: cornflowerblue;
+    background-color: rgb(234, 132, 227);
+    color: rgb(12, 11, 9);
+    vertical-align: top;
+}
+button span{
+    color: aqua;
+}
